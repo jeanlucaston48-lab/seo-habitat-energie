@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeanlucaston48-lab.github.io/seo-habitat-energie/sitemap.xml
